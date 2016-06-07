@@ -1,0 +1,15 @@
+{
+  "name": "@rjk10892/main",
+  "version": "1.0.2",
+  "description": "First ever version",
+  "repository": "https://github.com/rjk10892/main.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
